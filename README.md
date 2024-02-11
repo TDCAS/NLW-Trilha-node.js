@@ -30,6 +30,8 @@ npm run dev
 
 ## Rotas
 
+São ao todo 4 rotas
+
 ### /polls - Criar Enquete
 
 - Método: POST
