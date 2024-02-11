@@ -1,5 +1,7 @@
 # Projeto Enquete - NLW Trilha Node.js
 
+![image](https://github.com/TDCAS/NLW-Trilha-node.js/assets/53353680/d13d869b-3bc1-495f-b746-34ae73e33c94)
+
 ## Dependências
 
 - Node.js: v20.11.0
